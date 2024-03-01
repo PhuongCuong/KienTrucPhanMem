@@ -1,6 +1,6 @@
 <h3>Thêm MYSQL</h3>
 
-![GitHub Logo](/Screenshot%202024-03-01%20214158.png)
+![GitHub Logo]([/Screenshot%202024-03-01%20214158.png](https://github.com/PhuongCuong/KienTrucPhanMem/blob/master/KTTK_Week03/Screenshot%202024-03-01%20214158.png))
 <h3>Thêm Redis</h3>
 
 ![GitHub Logo](/Screenshot%202024-03-01%20231010.png)
